@@ -1,10 +1,3 @@
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin-top: 20%;
-}
-
-p {
-    font-size: 24px;
-    color: #333;
-}
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('Document is ready');
+});
